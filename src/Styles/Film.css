@@ -1,0 +1,13 @@
+.film {
+    margin-top: 50px;
+}
+.singleFilmlogo {
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*transform: translateY(-50%);*/
+    min-width: 240px;
+    min-height: 240px;
+    max-width: 240px;
+    max-height: 240px;
+    border-radius: 5%;
+}
